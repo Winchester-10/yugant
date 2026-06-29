@@ -172,6 +172,8 @@ The irony this sets up: Rihan intervened, used foresight to override what she wo
 
 **Dramatic function**: Because of what happened with his parents, Rihan uses his foresight obsessively to protect Dhara — intervening in small and large ways around her life constantly. He has already chosen a side in the ideological war by doing this. He just hasn't admitted it to himself yet. This contradiction is his central character flaw.
 
+**How she finds out (locked in — Act 3)**: She confronts him. The distance between them has been building since the internship incident, and through Acts 1 and 2 he has been disappearing, changing, becoming someone she doesn't recognise. At some point in Act 3 she pushes — not a quiet question but a real confrontation, built from months of accumulation. When the truth comes out, both things surface together: what he is, and what he did to her internship. The deception about one makes the deception about the other unforgivable. It goes badly not because she is cruel but because she is right. He has no defence that doesn't make it worse.
+
 ---
 
 ### 3.3 Kalan — Antagonist
@@ -263,6 +265,8 @@ Sometime afterward, Kalan discovered that the Suryavayus had secretly intervened
 **Backstory**: He was not always this rigid. Centuries ago he broke the code once — someone he loved was in danger and he intervened. His intervention cascaded into something catastrophic. What he did to save one person caused the deaths of many others. That experience did not make him a true believer immediately. It built him into one slowly, over decades. He constructed absolute faith around the wreckage of his guilt. The wall is now complete.
 
 **His relationship with Rihan**: He sees Rihan's foresight as the most dangerous gift a Suryavayu could carry — a constant temptation to intervene. He will push for Rihan's training to be accelerated or his power more tightly controlled, not out of cruelty but out of genuine fear of what Rihan will become. At some point he will tell Rihan directly: *"You did the right thing the night your parents died. That was an act of faith. Don't let guilt corrupt it into something lesser."* This line should make Rihan's hands shake.
+
+**His arc resolution (locked in — Book 1 ending)**: By the end of Act 3, Dhruv supports Rihan's proposed new code — not reluctantly, but with genuine conviction. Three things move him: the prophecy (he believes Rihan is the one it speaks of, and he will not stand in the way of that); Rihan's actions at Rameswaram (saving the seal, rallying a fractured unit, preventing the worst outcome through right action rather than inaction); and the quality of the new code itself, which he cannot dismiss — it honours dharma more completely than the old code did, because it requires discernment rather than passive restraint. Dhruv does not become warm. But he begins to trust Rihan, and for Dhruv, trust is the highest form of respect.
 
 **His relationship with Tara**: They have disagreed for centuries. She has the crack; he appears not to. They are the same age, have survived the same events, and arrived at different conclusions. Neither has convinced the other.
 
@@ -369,7 +373,7 @@ That scene is the philosophical heart of the novel made physical.
 
 **Siddhi**: Wind burst — compresses air around himself and releases it in a single explosive surge, launching himself or objects at extraordinary speed over short distances. Fastest Pavandoot member in a sprint. Cannot control the landing.
 
-**Dramatic function**: If Arjav's death is the floor dropping out, Jay's — if it happens — is hope being extinguished. Key scenario: Rihan's foresight shows Jay dying on a mission. Whether to act on that vision, and how, is one of the novel's most personal moral tests.
+**Dramatic function**: **Death candidate (locked in).** Jay's death is the inverse of Arjav's. Where Arjav died because Rihan acted on his foresight, Jay dies because Rihan doesn't. Having learned the cruelest rule through Arjav — that intervention can cause what he sees — Rihan sees Jay's death coming and consciously chooses not to act. Jay dies exactly as the vision showed. Rihan did nothing. This is a direct echo of the night his parents died: he saw it, he held still, someone died. When Smriti then shows him his parents' death through historical recall, she is not showing him something distant. She is showing him the pattern he just repeated. He already knows. That is the point.
 
 ---
 
@@ -564,6 +568,21 @@ This also makes Shaniwarwada's "haunted" reputation accidentally accurate — mo
 ---
 
 ## 7. Power System
+
+### 6.1 The New Suryavayu Code (locked in — Book 1 ending)
+
+At the end of Book 1, Rihan proposes a reformation of the Suryavayu code. The old code — inaction as faith, restraint as virtue — has been broken by the events of the novel: it protected Vivek's betrayal, it failed to prevent the partial breaking of Yama's seal, and it cost the Pavandoot two of its own. The new code is not a rejection of the old one. It is what the old one should always have been.
+
+**The New Code**:
+*"We are not servants of stillness. We are servants of dharma. We do not act from will, and we do not stand still from fear. We honour the duty to know which action dharma requires — and then we take it without hesitation."*
+
+**What changes**: The Suryavayus no longer treat non-interference as the default. Identifying new awakenings and bringing nascent Vayus into the fold is understood as active, necessary work. Taking action against those who corrupt dharma — the Kalavayus — is understood as service to God's will, not a violation of it. The discipline is not in the restraint. It is in the discernment.
+
+**What doesn't change**: The Suryavayus still do not act rashly, still do not override human fate carelessly, still seek to maintain the balance of life as it unfolds. The new code demands more of them, not less — the work of understanding what dharma requires is harder than simply holding still.
+
+**Who carries it forward**: Rihan proposes it. Tara, whose crack in faith has made her more honest than anyone, recognises it immediately. Dhruv accepts it because it honours dharma more completely than the old code did, and because the prophecy has confirmed Rihan's authority to speak it. The Pavandoot — fractured, grieving, in need of something to stand for — rallies behind it.
+
+---
 
 ### 7.1 Awakening (locked in)
 

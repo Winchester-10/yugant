@@ -175,7 +175,61 @@ Act 2 ends with Rihan still standing — but barely, and differently. The belong
 ## Act 3 — Choice
 *(Chapters ~21–end. Rihan must decide who he is.)*
 
+---
 
+**Ch 21–23 — The stakes become real**
+
+The Pavandoot now knows what is being prepared at Rameswaram — not just Kalavayu activity, but the full picture: the Four Seals, the Lokapalas, what breaking Yama's seal would do to the order of death across the world. Rihan understands for the first time that he has been fighting to protect something cosmic, not just tactical. The scale of it doesn't make him feel important. It makes him feel the weight of what failure means.
+
+Smriti and Rihan meet face to face — not in combat but in conversation. Two people with complementary powers: he shows her branching futures, she shows him certain history. Neither can fully dismiss what the other presents.
+
+*"Your futures are possibilities, Rihan. My past is proof. Show me one future where Kali Yuga heals itself. I'll show you ten thousand years of evidence that it doesn't."*
+
+He has no clean answer. He has hope. Against her perfect historical record, hope is a very hard thing to defend.
+
+Tara's crack in faith surfaces to Rihan for the first time. Through a flashback triggered mid-scene, we glimpse who she and Kalan were to each other before the schism. The picture of her is permanently complicated after this. If even Tara carries grief over what the old code cost, what does that say about the certainty she has been teaching him?
+
+---
+
+**Ch 24–26 — The darkest moment**
+
+Jay dies. Rihan saw it coming. He chose not to act — because the last time he acted on a vision, Arjav died at his hands. He held still. Jay died exactly as the vision showed. He has done this before. He knows the shape of this feeling.
+
+Smriti shows him the night his parents died through historical recall — projected with total clarity, seen from outside. He watches himself at 14 or 15, standing still while the vision plays out. Not through memory, which softens. Through Smriti's perfect recall, which does not.
+
+Kalan delivers his argument directly. Their first real ideological confrontation. He knows Rihan's history and uses it.
+
+*"You saw your parents would die. You did nothing. I call that cowardice dressed as faith. I held the same faith you hold now — it cost me my daughter. How many more people will your restraint bury?"*
+
+Rihan has no answer. Not because Kalan is wrong. Because part of him has always known Kalan is not wrong.
+
+Then Dhara confronts him. Months of accumulation. When the truth comes out, both things surface together — what he is, and what he did to her life. He has no defence that doesn't make it worse. She is not cruel. She is right.
+
+And then — in the wreckage of all of this — his foresight shows him Dhara dying. The ideology stops being philosophy. He is not choosing between right and wrong. He is choosing which loss he can survive.
+
+---
+
+**Ch 27–29 — Rameswaram**
+
+The Pavandoot moves to stop the ritual. Rihan leads from the front — not because anyone appointed him, but because the unit is fractured and he is the one still standing with something to say. They rally behind him.
+
+The confrontation at Rameswaram is not clean. The ritual is already underway. The Pavandoot stops it — taking right action, not standing still — but not before the seal is partially broken. In Rameswaram, death becomes unpredictable: people die before their time, others who should have died linger. Localized, for now. The wound will carry into Book 2.
+
+Kalan retreats. Not broken. Not finished. He has lost this battle and lost nothing of his conviction.
+
+Dhruv watches Rihan through all of it — the decisions made under pressure, the unit rallying, the right call taken at cost. Something in him settles.
+
+---
+
+**Ch 30 — The new code and the last conversation**
+
+Rihan proposes the new code to the Suryavayus:
+
+*"We are not servants of stillness. We are servants of dharma. We do not act from will, and we do not stand still from fear. We honour the duty to know which action dharma requires — and then we take it without hesitation."*
+
+Tara accepts without ceremony — it is what her crack in faith has always been pointing toward. Dhruv accepts because he cannot dismiss it and because the prophecy has given him reason to trust the man proposing it. The Pavandoot rallies. Rihan is not appointed to anything. He simply becomes the person others face when they need to know what to do next.
+
+The novel ends not on the cosmic level but the human one. Rihan goes to Dhara. He sits down and tells her everything — the parents, the foresight, the years of quiet interventions, the internship, what he is, what it cost her. She listens. The conversation does not end with forgiveness or with rupture. It ends with the two of them still in the room, still talking, the truth finally in the air between them. That is enough for now. That is everything.
 
 ---
 
