@@ -30,7 +30,7 @@ The Kalachakra's location was hidden by the earliest Suryavayus after the schism
 | 3rd | Dwarka (West) | Varuna | Book 3 | Oaths and cosmic law dissolve |
 | 4th | Badrinath (North) | Kubera | Book 4 | Hidden things surface; Kalachakra found |
 
-**In Book 1**: The Kalavayus are preparing to break Yama's seal at Rameswaram. Ritual preparation runs out of Shaniwarwada. The Pavandoot doesn't initially know what the seal is or what breaking it would do — only that something catastrophic is being planned. Near the climax, Rihan learns the full truth: he has been fighting to protect Yama's order over death itself. The Pavandoot stops the ritual — but not before the seal is partially weakened. The wound is visible: localized death anomalies appear across Maharashtra. The damage lingers into Book 2.
+**In Book 1**: The Kalavayus are preparing to break Yama's seal at Rameswaram. Ritual preparation runs out of Shaniwarwada. The Pavandoot doesn't initially know what the seal is or what breaking it would do — only that something catastrophic is being planned. Near the climax, Rihan learns the full truth: he has been fighting to protect Yama's order over death itself. The Pavandoot stops the ritual — but not before the seal is partially weakened. The wound is visible: localized death anomalies appear in Rameswaram specifically — death becomes unpredictable in that city, not everywhere. The damage lingers into Book 2.
 
 **Kalan's personal cost**: Breaking Yama's seal would scramble Kalan's own siddhi — the lifespan readings he has lived with for centuries would become unstable. He intends to do it anyway. He will sacrifice the very thing that made him who he is.
 
@@ -241,11 +241,11 @@ The novel ends not on the cosmic level but the human one. Rihan goes to Dhara. H
 | End of Act 1 | Found purpose and belonging for the first time — feels like freedom. But the Suryavayu code of restraint chafes immediately. He doesn't like that he must hold still when he can see what's coming. Freedom with a cage inside it. He accepts it because everything else feels so right — but the acceptance is fragile. |
 | Midpoint | Vertigo — not from height but from realising the floor was never solid. Vivek's betrayal is personal: he confided his real doubts to this man, and that is now in Kalavayu hands. Arjav is gone. Tara is carrying something she hasn't said. The code itself failed to catch the traitor because acting on suspicion without proof would violate the code. His doubts were never wrong — and that terrifies him, because he can see where doubts lead. He chose a side. He's discovering the side is human. He needed it not to be. |
 | Darkest moment | Everything at once. Jay is dead — foresight showed it and the choice was made. Smriti shows him his parents' death through historical recall — he sees his own inaction with total clarity for the first time. Kalan delivers his argument directly and Rihan has no answer. Dhara discovers what he is and it goes badly. And then — in the wreckage of all of this — his foresight shows him Dhara dying. The ideology stops being philosophy. It becomes: will you let your sister die the way you let your parents die? He knows both answers. He has always known both answers. He is not choosing between right and wrong. He is choosing which loss to survive. |
-| End | |
+| End | Exhausted, changed, and finally standing on ground that's his own. He has lost more than he expected and arrived somewhere more true than he planned. The new code is not a victory — it is the harder answer he has been circling his whole life. The acceptance is no longer fragile. It is chosen. And the conversation with Dhara is the first honest thing between them in years — not forgiveness, not closure, just truth in the air at last. |
 
 ---
 
 ## What the reader feels at the last page
 
-*(One sentence.)*
+The relief of a long-held breath finally released, shadowed by the knowledge that the world is still broken and the war is not over.
 

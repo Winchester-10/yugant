@@ -497,7 +497,9 @@ Rameswaram is where Rama built a bridge to Lanka — the site of a crossing betw
 | 3 | 3rd | Dwarka | Varuna | Oaths and cosmic law dissolve |
 | 4 | 4th | Badrinath | Kubera | Hidden things surface; Kalachakra found |
 
-In Book 1, the Pavandoot stops the Rameswaram ritual before the seal fully breaks — but not before it is weakened. The damage is visible and lingers: localized death anomalies appear across Maharashtra. The Kalavayus have drawn first blood on the cosmic level, even in defeat.
+In Book 1, the Pavandoot stops the Rameswaram ritual before the seal fully breaks — but not before it is weakened. The damage is visible and lingers: localized death anomalies appear in Rameswaram specifically. The Kalavayus have drawn first blood on the cosmic level, even in defeat.
+
+**What "partially broken" means (locked in)**: The ritual was interrupted mid-completion. A partial breaking causes a lesser version of the full domain consequence — localized rather than widespread, contained rather than cascading. The Kalachakra location is unaffected: that is only accessible when the fourth seal (Badrinath/Kubera) breaks, because Kubera's domain governs hidden things surfacing. Breaking any of the first three seals causes its own domain consequence but does not touch the Kalachakra location. All four seals together are the lock. The significance of the partial breaking is not what it reveals — it is what it proves: the Kalavayus can damage a seal even when stopped. That proof carries into every book that follows.
 
 ---
 
