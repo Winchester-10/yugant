@@ -1,0 +1,3 @@
+1. Rihan's hidden power other than the flying which is common to all the vayus will be foresight so he will have to decide a lot about when it is right to intervene and when it wont be right. this will put him right in the middle of the ideological conflict between the two factions making it an always ongoing conflict in his mind about where his loyalties lie. 
+
+2. The Kalavayus don't stand for 'dark'. they are the bearers of time because they are controllers of time. they try to intervene in what the suryavayus define as 'god's will'. 
